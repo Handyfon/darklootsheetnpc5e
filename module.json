@@ -1,0 +1,25 @@
+{
+	"name": "darklootsheetnpc5e",
+	"title": "darksheet LootsheetNPC5e",
+	"description": "Module is based on jopeek's Loot Sheet NPC 5E Module changed and optimized to fit darker dungeons and (optional) silver standard.",
+	"version": "0.1",
+	"minimumCoreVersion": "0.7.9",
+	"compatibleCoreVersion": "0.7.9",
+	"author": "Jan Ole Peek (ChalkOne), Charles Miller (Kage), NonstickPanda, Kevin Brammer (Striky)",
+	"systems": ["dnd5e"],
+    "esmodules": ["/darklootsheetnpc5e.js"],
+	"styles": ["/css/darklootsheetnpc5e.css"],
+	"packs": [
+		{
+			"name": "darklootsheet-shops",
+			"label": "Darklootsheet-Shops",
+			"system": "dnd5e",
+			"path": "./packs/darklootsheet-shops.db",
+			"entity": "RollTable"
+		}
+	],
+	"socket": true,
+	"url": "https://github.com/Handyfon/darklootsheetnpc5e",
+	"manifest": "https://github.com/Handyfon/darklootsheetnpc5e/master/module.json",
+	"download": "https://github.com/Handyfon/darklootsheetnpc5e/master/darklootsheetnpc5e"
+}
