@@ -20,6 +20,6 @@
 	],
 	"socket": true,
 	"url": "https://github.com/Handyfon/darklootsheetnpc5e",
-	"manifest": "https://github.com/Handyfon/darklootsheetnpc5e/master/module.json",
-	"download": "https://github.com/Handyfon/darklootsheetnpc5e/master/darklootsheetnpc5e"
+	"manifest": "https://raw.githubusercontent.com/Handyfon/darklootsheetnpc5e/main/module.json?token=AG3SDAL7BXMTWJM4Q5DMVTDAOQV56",
+	"download": "https://github.com/Handyfon/darklootsheetnpc5e/raw/master/darklootsheetnpc5e"
 }
